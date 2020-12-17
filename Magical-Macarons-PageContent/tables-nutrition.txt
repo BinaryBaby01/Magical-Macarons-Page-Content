@@ -1,0 +1,14 @@
+Food Website - Recipe Book Site Name
+Simones Recipe Book
+Beginner Bakery
+Magical - Macarons
+
+maybe different categories of Recipe
+sweet / dessert
+salty /savoury 
+healthy / unhealthy
+vegetarian / vegan 
+no allergens / 
+
+MAKE SURE TO DESCRIBE ALLERGENS IN 
+A WARNING BOX ON THE RECIPES PAGE

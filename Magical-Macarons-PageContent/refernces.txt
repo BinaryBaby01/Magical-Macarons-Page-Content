@@ -1,0 +1,56 @@
+https://explorefood.foodafactoflife.org.uk/Calculator/Recipe
+
+used to calculate the precise nurtritional data for my recipes 
+
+<th>Energy Kcal</th>
+    <th>Fat</th>
+ <th>Saturates</th>
+    <th>Monounsaturates</th>
+    <th>Polyunsaturates</th>
+    <th>Carbohydrate</th>
+    <th>Total Sugars</th>
+    <th>Protein</th>
+    <th>Fibre</th>
+   <th>Alcohol</th>
+
+   <td>THIS IS JUST FOR 125G OF UNSALTED BUTTER</td>
+   kcal	930.0	
+Fat	g	102.8	
+Saturates	g	65.1
+Monounsaturates	g	26.1	
+Polyunsaturates	g	3.5	
+Carbohydrate	g	0.8	
+Total Sugars	g	0.8	
+Protein	g	0.8	
+Fibre	g	0.0	
+Alcohol	g	0.0
+
+
+sone of these are quite technical terms
+so we should try and make a tool tip when yoo hover over them or try and 
+and make them links to wikipedia explaining what it it
+or better yet nhs website
+
+BBC GOOD FOOD.COM/RECIPES/Vintagecookies
+rating system?
+stars
+
+Prep:15 mins
+Cook:10 mins
+Easy
+Makes 30
+
+whether it is a freezable recipe or not
+put in tips and tricks, what u can and
+cannot freeze
+
+RECIPE TIPS
+FREEZING THE BISCUITS
+If you’ve frozen the biscuits, take them out and arrange them on a lined baking sheet. Once defrosted, pop them in a medium oven 190C/170 fan/gas mark 5 and heat for 2-3 mins to crisp up. Don’t leave them too long or they’ll dry out.
+STORING DOUGH
+You can keep the uncooked dough in a sealed container in the fridge for up to two weeks. Simply take some out, dollop on a lined baking tray and allow to come up to room temperature for 5 mins before baking.
+
+different types of forums for questions, comments and tips 
+
+
+https://www.theenglishkitchen.co/2010/09/chocolate-chunk-muffins.html?m=0

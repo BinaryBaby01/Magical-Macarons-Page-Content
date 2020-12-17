@@ -1,0 +1,36 @@
+ <div id="page">
+  <header id="siteheader">
+        <h1 id="sitename">Magical Macarons</h1>
+    </header>
+
+<header id="subpageheader">
+    <hgroup>
+        <h2 id="page-heading">Specific Recipe</h2>
+        <h3 id="motivation-heading">How to make these sweet / savoury / healthy treats<h3>
+    </hgroup>
+</header>
+
+<div id="utensils">
+    <article class="content"></article>
+</div>
+<div id="preparation">
+    <article class="content"></article>
+</div>
+<div id="method">
+    <article class="content"></article>
+</div>
+
+<div id="nutrition">
+    <table border="1">
+        <tr>
+            <th></th>
+        </tr>
+
+
+        <tr>
+            <td></td>
+        </tr>
+    </table>
+</div>
+</div>
+<footer><a></a></footer>
